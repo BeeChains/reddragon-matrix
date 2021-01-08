@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## RedDragon-Matrix | Decentralized DNS websites with Handshake(HNS) blockchain root level domains directing one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting domains on the internet.
 
-You can use the [editor on GitHub](https://github.com/BeeChains/reddragon-matrix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) |
+ [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
+We are changing the world wide web one I and Handshake at a time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeeChains/reddragon-matrix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# "I" As The Center Of Gravity Is The Seat Of Unity. 
+ # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
+ 
+ 
+ - [Red Dragon - 朱龍 Zhūlóng ](https://en.wikipedia.org/wiki/Dragon_King) wiki source.
+ - [朱龍/](http://xn--eqvo86j.hns.to/)
+ - [Chinese Gods and Immortals](https://slife.org/chinese-gods-and-immortals/)
+ - [Physical Immortality: The Science of Everlasting Life](https://b-ok.cc/book/5283206/a76658/) download book by Leonard D. Orr
